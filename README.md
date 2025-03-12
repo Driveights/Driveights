@@ -46,4 +46,4 @@ University of Pisa (2019 - 2022)
 
 ## 📫 How to Reach Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lorenzo-guidotti-7ab125355/)  
-📧 Email: lorenzo.guidotti21@email.com *(replace with your real email)*
+📧 Email: lorenzo.guidotti21@email.com
